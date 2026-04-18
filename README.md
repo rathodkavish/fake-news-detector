@@ -2,9 +2,7 @@
 
 A machine learning-based Fake News Detection System built with Python.
 
-## 👥 Team
--  Rathod Kavish 
-- Daksh Chauhan 
+
 
 ## 🛠️ Tech Stack
 - Python
